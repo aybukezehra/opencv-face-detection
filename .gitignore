@@ -1,0 +1,12 @@
+# Sanal Ortam (En Önemlisi)
+# venv klasörünü ve içindekileri tamamen görmezden gel
+venv/
+*.venv
+
+# Python'un otomatik oluşturduğu cache dosyaları
+__pycache__/
+*.pyc
+
+# VS Code gibi IDE'lerin ayar dosyaları
+.vscode/
+.idea/
