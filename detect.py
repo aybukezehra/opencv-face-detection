@@ -2,7 +2,7 @@ import cv2
 import os
 
 # --- Dosya yolu (Türkçe karakter yok) ---
-img_path = r"C:\Users\AhmetD\Desktop\yuzzz\data.png"
+img_path = r"data.png"
 
 # Resmi oku
 img = cv2.imread(img_path)
