@@ -27,8 +27,7 @@ Projeyi yerel bilgisayarınızda kurmak için aşağıdaki adımları izleyin:
 
 1.  **Repoyu klonlayın (veya indirin):**
     ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/yuzzz.git](https://github.com/KULLANICI_ADINIZ/yuzzz.git)
-    cd yuzzz
+    git clone (https://github.com/aybukezehra/opencv-face-detection.git)
     ```
 
 2.  **(Tavsiye Edilir) Bir sanal ortam (virtual environment) oluşturun:**
